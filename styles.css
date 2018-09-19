@@ -81,7 +81,7 @@ header .profile-image:hover {
   background-color: white;
   color: black;
   padding: 10px;
-  border-radius: 5px;
+  border-radius: 10px;
   display: table;
   margin: 10px auto;
 } 
@@ -103,6 +103,10 @@ header .profile-image:hover {
   border-color: #33a1ee;
 }
 
+main.emoji {
+	width : 10%;
+	margin-left: 100px;
+}
 
 ul.skills {
   padding: 0;
